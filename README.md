@@ -1,2 +1,1 @@
-# Student-Smart-Spending-Planner
-Student-Smart-Spending-Planner
+# Emergency-Medical-ID-and-Health-Record-System
